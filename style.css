@@ -17,7 +17,7 @@ nav{
 }
 nav li{
     display: inline;
-    margin: 0 0 0 15px;/*espaçamento externo*/
+    margin: 0 0 0 15px;/*espaçamento extern*/
 }
 
 nav a{
